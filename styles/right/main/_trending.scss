@@ -1,0 +1,36 @@
+#trending {
+    grid-row: 3;
+
+    &__display {
+        background: #fff;
+        padding: 32px;
+        border-radius: 8px;
+        box-shadow: 2px 2px 4px rgba(0,0,0,.15);
+        display: flex;
+        flex-direction: column;
+        gap: 32px;
+        margin-top: 10px;
+    }
+
+    .trending__article {
+        display: flex;
+        align-items: center;
+        gap: 8px;
+    
+        &--details {
+            display: flex;
+            flex-direction: column;
+            gap: 4px;
+
+            .trending__article--name {
+                font-size: 14px;
+                font-weight: 700;
+            }
+
+            .trending__article--project {
+                color: $medium-grey;
+                font-size: 12px;
+            }
+        }
+    }
+}

@@ -1,4 +1,4 @@
-@import './variables';
+@import 'variables', './sidebar/icons', './sidebar/sidebar', './right/header/header','./right/right', './right/icons', './right/main/main', './right/main/project', './right/main/announcements', './right/main/trending';
 
 * {
     margin: 0;
@@ -10,4 +10,11 @@
 
 body {
     height: 100vh;
+    display: grid;
+    grid-template-columns: 1fr 4fr;
+}
+
+.picture--small {
+    width: 36px;
+    border-radius: 100px;
 }

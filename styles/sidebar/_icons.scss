@@ -1,0 +1,55 @@
+.icon {
+    height: 32px;
+    width: 32px;
+    background-color: #fff;
+}
+
+.icon--logo {
+    mask: url(../../assets/icons/view-dashboard.svg) no-repeat center / contain;
+    -webkit-mask: url(../../assets/icons/view-dashboard.svg) no-repeat center / contain;
+}
+
+.icon--home {
+    mask: url(../../assets/icons/home.svg) no-repeat center / contain;
+    -webkit-mask: url(../../assets/icons/home.svg) no-repeat center / contain;
+}
+
+.icon--profile {
+    mask: url(../../assets/icons/card-account-details-outline.svg) no-repeat center / contain;
+    -webkit-mask: url(../../assets/icons/card-account-details-outline.svg) no-repeat center / contain;
+}
+
+.icon--messages {
+    mask: url(../../assets/icons/message-reply.svg) no-repeat center / contain;
+    -webkit-mask: url(../../assets/icons/message-reply.svg) no-repeat center / contain;
+}
+
+.icon--history {
+    mask: url(../../assets/icons/clock-time-three-outline.svg) no-repeat center / contain;
+    -webkit-mask: url(../../assets/icons/clock-time-three-outline.svg) no-repeat center / contain;
+}
+
+.icon--tasks {
+    mask: url(../../assets/icons/note-multiple.svg) no-repeat center / contain;
+    -webkit-mask: url(../../assets/icons/note-multiple.svg) no-repeat center / contain;
+}
+
+.icon--communities {
+    mask: url(../../assets/icons/account-group.svg) no-repeat center / contain;
+    -webkit-mask: url(../../assets/icons/account-group.svg) no-repeat center / contain;
+}
+
+.icon--settings {
+    mask: url(../../assets/icons/cog.svg) no-repeat center / contain;
+    -webkit-mask: url(../../assets/icons/cog.svg) no-repeat center / contain;
+}
+
+.icon--support {
+    mask: url(../../assets/icons/help-box.svg) no-repeat center / contain;
+    -webkit-mask: url(../../assets/icons/help-box.svg) no-repeat center / contain;
+}
+
+.icon--privacy {
+    mask: url(../../assets/icons/shield-check.svg) no-repeat center / contain;
+    -webkit-mask: url(../../assets/icons/shield-check.svg) no-repeat center / contain;
+}

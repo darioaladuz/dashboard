@@ -1,0 +1,39 @@
+.icon--search {
+    height: 24px;
+    width: 24px;
+    background-color: black;
+    mask: url(../../assets/icons/magnify.svg) no-repeat center / contain;
+    -webkit-mask: url(../../assets/icons/magnify.svg) no-repeat center / contain;
+}
+
+.icon--bell {
+    height: 24px;
+    width: 24px;
+    background-color: black;
+    mask: url(../../assets/icons/bell-ring-outline.svg) no-repeat center / contain;
+    -webkit-mask: url(../../assets/icons/bell-ring-outline.svg) no-repeat center / contain;
+}
+
+.icon--star {
+    height: 24px;
+    width: 24px;
+    background-color: black;
+    mask: url(../../assets/icons/star-plus-outline.svg) no-repeat center / contain;
+    -webkit-mask: url(../../assets/icons/star-plus-outline.svg) no-repeat center / contain;
+}
+
+.icon--eye {
+    height: 24px;
+    width: 24px;
+    background-color: black;
+    mask: url(../../assets/icons/eye-plus-outline.svg) no-repeat center / contain;
+    -webkit-mask: url(../../assets/icons/eye-plus-outline.svg) no-repeat center / contain;
+}
+
+.icon--source {
+    height: 24px;
+    width: 24px;
+    background-color: black;
+    mask: url(../../assets/icons/source-fork.svg) no-repeat center / contain;
+    -webkit-mask: url(../../assets/icons/source-fork.svg) no-repeat center / contain;
+}
